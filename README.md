@@ -30,6 +30,7 @@ Launch Instances:
 
 10.Click "Launch Instances" to initiate the EC2 instance creation.
 
+
 *Demonstration showing below:
 
 
