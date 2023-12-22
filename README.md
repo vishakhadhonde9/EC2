@@ -1,4 +1,38 @@
-# AWS
+
+# EC2-Instance-
+Launch an Elastic Compute Cloud(EC2) Instance in AWS.
+
+EC2-Instance-It allows you to run virtual servers in the cloud. Amazon Elastic Compute Cloud (Amazon EC2) provides on-demand, scalable computing capacity in the Amazon Web Services (AWS) Cloud.
+
+Steps to launch an EC2 Instance:
+1.Sign in to AWS Console:
+
+2.Navigate to EC2 Dashboard:
+
+3.Click "Launch Instance":
+
+4.Choose AMI:
+
+5.Select Instance Type:
+Choose an instance type based on your requirements.
+
+6.Configure Instance:
+Set instance details, like the number of instances, network settings, etc.
+
+7.Add Storage:
+
+8.Configure Security Group:
+Define security group rules for inbound and outbound traffic.
+
+9.Choose Key Pair:
+Select an existing key pair or create a new one.
+Launch Instances:
+
+10.Click "Launch Instances" to initiate the EC2 instance creation.
+
+*Demonstration showing below:
+
+
 ![Screenshot (400)](https://github.com/vishakhadhonde9/AWS/assets/97825776/5c0937a3-0c87-4555-b6a7-332fcfd616e2)
 
 
